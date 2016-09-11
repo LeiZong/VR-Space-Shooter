@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C9D21591-EC8A-2BB4-C02A-50EA78315FD1}") = "VR Space Shooter", "Assembly-CSharp.csproj", "{9B027D25-FA41-BED2-F219-BAE242351E8A}"
+EndProject
+Project("{C9D21591-EC8A-2BB4-C02A-50EA78315FD1}") = "VR Space Shooter", "Assembly-CSharp-Editor.csproj", "{F3F57741-D6AD-B569-7F3E-8860D3B5BB47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B027D25-FA41-BED2-F219-BAE242351E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B027D25-FA41-BED2-F219-BAE242351E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B027D25-FA41-BED2-F219-BAE242351E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B027D25-FA41-BED2-F219-BAE242351E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3F57741-D6AD-B569-7F3E-8860D3B5BB47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F57741-D6AD-B569-7F3E-8860D3B5BB47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F57741-D6AD-B569-7F3E-8860D3B5BB47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F57741-D6AD-B569-7F3E-8860D3B5BB47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
